@@ -277,10 +277,10 @@ body {
     .name {
       position: relative;
       display: flex;
-      justify-content: center;
+      /* justify-content: center; */
       align-items: center;
       color: red;
       top: 320px;
-      margin: 0 auto;
+      left: calc(50% - 90px);
       font-size: 60px;
     }
