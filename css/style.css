@@ -281,5 +281,6 @@ body {
       align-items: center;
       color: red;
       top: 320px;
+      margin: 0 auto;
       font-size: 60px;
     }
