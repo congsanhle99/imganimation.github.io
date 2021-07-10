@@ -275,9 +275,11 @@ body {
     }
 
     .name {
-      color: red;
       position: relative;
-      top: 330px;
-      left: 520px;
-      font-size: 46px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: red;
+      top: 320px;
+      font-size: 60px;
     }
